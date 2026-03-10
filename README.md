@@ -11,7 +11,6 @@ Email: ma.zilin.dev@gmail.com | [Google Scholar] | [Curriculum Vitae]
 
 **Northeastern University** | Shenyang, China
 B.Eng. in Software Engineering | Sept 2025 - Expected June 2029
-* Rank:
 
 ## Research Interests
 
@@ -26,15 +25,7 @@ B.Eng. in Software Engineering | Sept 2025 - Expected June 2029
 
 ## Selected Projects
 
-### RL-based Quadruped Locomotion in Isaac Lab
-*Status: Planned*
-* Focus:
-* [Code/Demo Link - Placeholder]
-
-### VLA Policy Distillation for Robotic Grasping
-*Status: Planned*
-* Focus:
-* [Code/Demo Link - Placeholder]
+*(To be updated)*
 
 ---
 *Last updated: March 2026*
