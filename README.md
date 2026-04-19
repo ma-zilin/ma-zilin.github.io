@@ -1,31 +1,26 @@
 # Ma Zilin
 
-B.Eng. in Software Engineering, Northeastern University (NEU).
-Research Focus: Embodied AI, Sim-to-Real Transfer, Vision-Language-Action Models.
+**B.Eng. in Software Engineering**, Northeastern University  
+*Sept 2025 – Expected June 2029*
 
-Email: ma.zilin.dev@gmail.com | [Google Scholar] | [Curriculum Vitae]
+&gt; Building the bridge between deep learning and physical control.
+
+[Email](mailto:ma.zilin.dev@gmail.com) 
 
 ---
-
-## Education
-
-**Northeastern University** | Shenyang, China
-B.Eng. in Software Engineering | Sept 2025 - Expected June 2029
 
 ## Research Interests
 
-* **Embodied AI** 
-* **Sim-to-Real Transfer** 
-* **Dexterous Manipulation** 
-* **Vision-Language-Action Models**
+Embodied AI · Sim-to-Real Transfer · Vision-Language-Action Models
 
-## Publications
+## Projects
 
-*(To be updated)*
+**[DeepLearningFoundations](https://github.com/ma-zilin/DeepLearningFoundations)**  
+PyTorch, YOLOv8. Tensor intuition and visual perception for embedded systems.
 
-## Selected Projects
-
-*(To be updated)*
+**[ArduinoRobotics](https://github.com/ma-zilin/ArduinoRobotics)**  
+C++17, Embedded PID. Closed-loop control from pixels to servos.
 
 ---
-*Last updated: March 2026*
+
+*Last updated: April 2026*
