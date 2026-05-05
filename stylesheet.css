@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #1772d0;
+  color: #111;
   text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 strong {
@@ -103,10 +103,20 @@ h2 {
 }
 
 .name {
-  padding-top: 20px;
+  padding-top: 6px;
   margin: 0;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.toplinks a {
+  color: #444;
+  font-size: 13px;
+}
+
+.toplinks a:hover {
+  color: #f09228;
 }
 
 .one {
