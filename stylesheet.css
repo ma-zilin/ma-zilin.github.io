@@ -130,6 +130,15 @@ h2 {
   color: #f09228;
 }
 
+.intro a,
+.intro a:visited {
+  color: #0057ff !important;
+}
+
+.intro a:hover {
+  color: #d9480f !important;
+}
+
 .one {
   width: 160px;
   height: 160px;
@@ -161,3 +170,9 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+/* Projects placeholder rules */
+.projects tr { display: none; }
+.projects tr:first-child { display: table-row; }
+.projects td .one, .projects td img { border-radius: 12px; overflow: hidden; }
+.projects td .one img, .projects td img { width: 160px; height: 160px; object-fit: cover; display: block; }
