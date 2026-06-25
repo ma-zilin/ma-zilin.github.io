@@ -54,6 +54,7 @@
             <tr>
               <td style="padding:8px;width:100%;vertical-align:middle">
                 <ul>
+                  <li><strong>[06/2026]</strong> Added on-device translation to Harmonic for Hacker News.</li>
                   <li><strong>[04/2026]</strong> Completed Arduino-Based Remote Control and Distance Warning System.</li>
                 </ul>
               </td>
@@ -95,6 +96,36 @@
     <p><a href="https://github.com/ma-zilin/ArduinoRobotics/tree/main/b-self-balance">GitHub</a></p>
   </td>
 </tr>
+
+              <tr onmouseout="harmonic_stop()" onmouseover="harmonic_start()">
+                <td style="padding:16px;width:20%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='harmonic_image'>
+                      <img src='images/Harmonic_screenshot.jpg' width=100%>
+                    </div>
+                    <img src='images/harmonic_icon.png' width=100%>
+                  </div>
+                  <script type="text/javascript">
+                    function harmonic_start() {
+                      document.getElementById('harmonic_image').style.opacity = "1";
+                    }
+                    function harmonic_stop() {
+                      document.getElementById('harmonic_image').style.opacity = "0";
+                    }
+                    harmonic_stop()
+                  </script>
+                </td>
+                <td style="padding:8px;width:80%;vertical-align:middle">
+                  <a href="https://github.com/ma-zilin/Harmonic-HN-Translate">
+                    <span class="papertitle">Harmonic for Hacker News</span>
+                  </a>
+                  <p></p>
+                  <p>
+                    A fork of <a href="https://github.com/SimonHalvdansson/Harmonic-HN">Harmonic-HN</a> by Simon Halvdansson, adding on-device translation via Google ML Kit. Supports 50 languages, bilingual and overlay display modes, all running offline for privacy. Working toward graceful auto-translation and LLM-based translation API support.
+                  </p>
+                  <p><a href="https://github.com/ma-zilin/Harmonic-HN-Translate">GitHub</a></p>
+                </td>
+              </tr>
 
           </tbody></table>
 
